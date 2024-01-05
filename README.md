@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prateekm26
 - 👀 I’m interested in mobile app development.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working with  Flutter framework
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 Reach me at prateekm26@gmail.com
 
